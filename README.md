@@ -100,9 +100,17 @@ Clique então em upload, que abrirá uma aba lateral. Selecione então todos os 
 ## Passo 10
 ✅ Selecione **"Armazenamento de Blob do Azure"**
 
-Preencha os dados conforme os passos na imagem.
+Preencha os dados conforme os passos na imagem e clique em **"próximo"**.
 
 A informações não presentes nos passos já vêm preenchidas, ou devem ser deixadas em branco.
+
+![image](https://github.com/user-attachments/assets/a4d0c07e-56ca-4fa6-83a2-89c8be92b71a)
+
+✅ Na aba "Add Cognitive skills (optional)", em "Attach AI Services", selecione seu recurso.
+
+![image](https://github.com/user-attachments/assets/949cf964-deae-4ecf-b023-34f13a830ee2)
+
+
 
 
 
