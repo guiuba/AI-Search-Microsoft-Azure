@@ -12,5 +12,8 @@ Clique em **"Create"** para criar um novo search service e preencha as informaç
 
 ![image](https://github.com/user-attachments/assets/4af8f760-e76f-483f-acfb-108110b99776)
 
+![image](https://github.com/user-attachments/assets/ce2ff531-0d30-4bad-bda3-e1e6cbddac2a)
+
+
 
 
