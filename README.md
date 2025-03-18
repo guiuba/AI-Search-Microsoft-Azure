@@ -106,9 +106,11 @@ A informações não presentes nos passos já vêm preenchidas, ou devem ser dei
 
 ![image](https://github.com/user-attachments/assets/a4d0c07e-56ca-4fa6-83a2-89c8be92b71a)
 
-✅ Na aba "Add Cognitive skills (optional)", em "Attach AI Services", selecione seu recurso.
+✅ Na aba **"Add Cognitive skills (optional)"**, em **"Attach AI Services"**, selecione seu recurso.
 
 ![image](https://github.com/user-attachments/assets/949cf964-deae-4ecf-b023-34f13a830ee2)
+
+✅ Em **"Adicionar enriquecimentos"** preencher conforme imagem abaixo
 
 
 
