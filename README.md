@@ -76,11 +76,17 @@ Clique para habilitar a opção **"Permitir acesso anônimo ao Blob"** conforme 
 ![image](https://github.com/user-attachments/assets/5af1bb49-be57-476b-96a8-a90f9788af92)
 
 ## Passo 8
-Em um novo navegador, faça o download do zip contido no link fornecido na documentação: https://aka.ms/mslearn-coffee-reviews, e extraia os arquivos em uma pasta **"reviews"**
+✅Em um novo navegador, faça o download do zip contido no link fornecido na documentação: https://aka.ms/mslearn-coffee-reviews, e extraia os arquivos em uma pasta **"reviews"**
 Clique então em upload, que abrirá uma aba lateral. Selecione então todos os arquivos descompactados, e clique em **"upload"**
 
 
 ![image](https://github.com/user-attachments/assets/ead39c8c-ff60-4ded-a067-b1d65a2c8096)
+
+
+✅ Arquivos carregados no contêiner **"coffeereviews"**
+
+![image](https://github.com/user-attachments/assets/a65dbab8-d6fa-44e0-8cb3-3f0b152b94c9)
+
 
 
 
