@@ -16,7 +16,10 @@ Documentação: https://aka.ms/ai900-ai-search
 
 ![image](https://github.com/user-attachments/assets/ce2ff531-0d30-4bad-bda3-e1e6cbddac2a)
 
-✅ Depois da confirmação de criação, clique em "Go to resource"
+✅ Depois da confirmação de criação, clique em "Ir para o recurso":
+
+![image](https://github.com/user-attachments/assets/aaeb0d08-5965-4763-b2a3-a98207830ebf)
+
 
 
 
