@@ -92,6 +92,12 @@ Clique então em upload, que abrirá uma aba lateral. Selecione então todos os 
 ![image](https://github.com/user-attachments/assets/bc4b500f-604d-4f0d-b252-050926797800)
 
 
+✅ Selecione o serviço criado anteriormente e clique em **"Importar dados"**
+
+![image](https://github.com/user-attachments/assets/cfc38ad6-2adf-46d4-91b1-6645b361f6c7)
+
+
+
 
 
 
