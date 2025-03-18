@@ -112,6 +112,12 @@ A informações não presentes nos passos já vêm preenchidas, ou devem ser dei
 
 ✅ Em **"Adicionar enriquecimentos"** preencher conforme imagem abaixo
 
+![image](https://github.com/user-attachments/assets/b3ad2759-c11f-431b-9472-c0b5552c1f59)
+
+![image](https://github.com/user-attachments/assets/a26b51e2-87c4-4dfe-acf6-46f7f80b9bf6)
+
+
+
 
 
 
