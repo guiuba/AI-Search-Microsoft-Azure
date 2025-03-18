@@ -20,6 +20,11 @@ Documentação: https://aka.ms/ai900-ai-search
 
 ![image](https://github.com/user-attachments/assets/aaeb0d08-5965-4763-b2a3-a98207830ebf)
 
+## Passo 3
+✅ Precisamos criar agora um recurso de IA.
+
+De volta à Home do Portal Azure, no menu lateral, clique em **"Create a resource"**, escolha **"AI + Machine Learning"**, depois **"Azure Ai Services"**
+
 
 
 
