@@ -64,6 +64,8 @@ Após isso clique em **"Examinar + criar"**
 
 ![image](https://github.com/user-attachments/assets/9b72ea06-f137-415a-94c4-f37bbefcace5)
 
+## Passo 6
+✅ Na tela do storage, no menu lateral esquerdo, procure e selecione a opção **"configuration"**. Ela vai abrir a tela da direita que está sendo mostrada abaixo. Clique para habilitar a opção conforme imagem e clique em **"save"**.
 
 
 
