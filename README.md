@@ -80,6 +80,10 @@ Em um novo navegador, faça o download do zip contido no link fornecido na docum
 Clique então em upload, que abrirá uma aba lateral. Selecione então todos os arquivos descompactados, e clique em **"upload"**
 
 
+![image](https://github.com/user-attachments/assets/ead39c8c-ff60-4ded-a067-b1d65a2c8096)
+
+
+
 
 
 
