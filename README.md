@@ -125,7 +125,7 @@ A informações não presentes nos passos já vêm preenchidas, ou devem ser dei
 
 ## Passo 14
 
-✅ Na aba **"Personalizar índice de destino"**, preencha conforme imagem abaixo:
+✅ Na aba **"Personalizar índice de destino"**, preencha conforme imagem abaixo, em seguida clique em **"Próximo criar um indexador"**:
 
 ![image](https://github.com/user-attachments/assets/b1132710-54f6-4c35-8ade-0af13093a4f6)
 
