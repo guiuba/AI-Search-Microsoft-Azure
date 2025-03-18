@@ -97,6 +97,14 @@ Clique então em upload, que abrirá uma aba lateral. Selecione então todos os 
 ![image](https://github.com/user-attachments/assets/cfc38ad6-2adf-46d4-91b1-6645b361f6c7)
 
 
+## Passo 10
+✅ Selecione **"Armazenamento de Blob do Azure"**
+
+Preencha os dados conforme os passos na imagem.
+
+A informações não presentes nos passos já vêm preenchidas, ou devem ser deixadas em branco.
+
+
 
 
 
