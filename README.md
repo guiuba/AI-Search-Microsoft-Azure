@@ -16,6 +16,8 @@ Documentação: https://aka.ms/ai900-ai-search
 
 ![image](https://github.com/user-attachments/assets/ce2ff531-0d30-4bad-bda3-e1e6cbddac2a)
 
+✅ Depois da confirmação de criação, clique em "Go to resource"
+
 
 
 
