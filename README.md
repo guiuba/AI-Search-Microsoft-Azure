@@ -116,6 +116,20 @@ A informações não presentes nos passos já vêm preenchidas, ou devem ser dei
 
 ![image](https://github.com/user-attachments/assets/a26b51e2-87c4-4dfe-acf6-46f7f80b9bf6)
 
+✅ Em **"Salvar os enriquecimentos em um repositório de conhecimento"**, selecione **"Projeções de imagem"**.
+✅ Em **"Escolher uma conexão existente"** selecione o storage criado anteriormente.
+
+![image](https://github.com/user-attachments/assets/dd78c280-97a5-49cd-8a78-c62de599f562)
+
+✅ Clique em **"Próximo: Personalizar índice de destino"**
+
+## Passo 14
+
+✅ Na aba **"Personalizar índice de destino"**, preencha conforme imagem abaixo:
+
+![image](https://github.com/user-attachments/assets/b1132710-54f6-4c35-8ade-0af13093a4f6)
+
+
 
 
 
