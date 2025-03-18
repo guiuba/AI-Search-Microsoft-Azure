@@ -20,6 +20,8 @@ Documentação: https://aka.ms/ai900-ai-search
 
 ![image](https://github.com/user-attachments/assets/aaeb0d08-5965-4763-b2a3-a98207830ebf)
 
+
+
 ## Passo 3
 ✅ Precisamos criar agora um recurso de IA.
 
@@ -47,6 +49,13 @@ De volta à Home do Portal Azure, no menu lateral, clique em **"Create a resourc
 Volte à home do Portal Azure, busque e selecione **"storage accounts ou contas de armazenamento"** e clique em **"Criar"**
 
 ![image](https://github.com/user-attachments/assets/8e6dc8d2-8704-482c-995f-adba3257ab7d)
+
+
+![image](https://github.com/user-attachments/assets/89afe2b1-a157-4c3d-9347-10140ba90929)
+
+![image](https://github.com/user-attachments/assets/33eb1af0-e032-4546-880b-5297808dbbce)
+
+
 
 
 
