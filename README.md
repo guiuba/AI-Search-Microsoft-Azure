@@ -70,6 +70,13 @@ Clique para habilitar a opção **"Permitir acesso anônimo ao Blob"** conforme 
 
 ![image](https://github.com/user-attachments/assets/a0fa676a-2b13-4cf6-be12-7bf8b36cf93f)
 
+## Passo 7
+✅ No menu lateral esquerdo, clique em **"Armazenamento de dados > Contêineres"**, e então  em **"+ contêiner"**, que abrirá uma aba lateral. Selecione o campo **"Nível de acesso anônimo"** com a opção **"Contêiner(acesso de leitura anônima para contêineres e blobs)"**. Depois clique em **"Criar"**.
+
+![image](https://github.com/user-attachments/assets/5af1bb49-be57-476b-96a8-a90f9788af92)
+
+
+
 
 
 
