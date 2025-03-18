@@ -65,7 +65,11 @@ Após isso clique em **"Examinar + criar"**
 ![image](https://github.com/user-attachments/assets/9b72ea06-f137-415a-94c4-f37bbefcace5)
 
 ## Passo 6
-✅ Na tela do storage, no menu lateral esquerdo, procure e selecione a opção **"configuration"**. Ela vai abrir a tela da direita que está sendo mostrada abaixo. Clique para habilitar a opção conforme imagem e clique em **"save"**.
+✅ Na tela da **"Conta de armazenamento"**, no menu lateral esquerdo, procure e selecione a opção **"Configuração"**. 
+Clique para habilitar a opção **"Permitir acesso anônimo ao Blob"** conforme imagem e clique em **"salvar"**.
+
+![image](https://github.com/user-attachments/assets/a0fa676a-2b13-4cf6-be12-7bf8b36cf93f)
+
 
 
 
