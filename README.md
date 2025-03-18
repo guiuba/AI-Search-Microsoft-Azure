@@ -27,6 +27,13 @@ De volta à Home do Portal Azure, no menu lateral, clique em **"Create a resourc
 
 ![image](https://github.com/user-attachments/assets/0e23bcba-eae3-4fae-b01c-3b3c7b26c308)
 
+## Passo 4
+✅ Preencha com as informações segundo a imagem abaixo. Clica em **"Examinar + Criar"**
+
+![image](https://github.com/user-attachments/assets/281cd8db-8af0-426b-9a38-92f22b33e59f)
+
+
+
 
 
 
