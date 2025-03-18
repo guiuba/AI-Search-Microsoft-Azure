@@ -60,6 +60,11 @@ Após isso clique em **"Examinar + criar"**
 
 ![image](https://github.com/user-attachments/assets/33eb1af0-e032-4546-880b-5297808dbbce)
 
+✅ Depois de criada clique em **"Ir para o recurso"** 
+
+![image](https://github.com/user-attachments/assets/9b72ea06-f137-415a-94c4-f37bbefcace5)
+
+
 
 
 
