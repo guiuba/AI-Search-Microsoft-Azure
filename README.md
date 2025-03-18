@@ -10,4 +10,7 @@ Abrir a página do [Portal Azure](https://portal.azure.com/#home), buscar e sele
 ## Passo 2  
 Clique em **"Create"** para criar um novo search service e preencha as informações de acordo com a ordem da imagem abaixo:
 
+![image](https://github.com/user-attachments/assets/4af8f760-e76f-483f-acfb-108110b99776)
+
+
 
