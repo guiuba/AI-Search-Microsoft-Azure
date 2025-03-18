@@ -44,7 +44,10 @@ De volta à Home do Portal Azure, no menu lateral, clique em **"Create a resourc
 ## Passo 5
 ✅ Agora criaremos uma conta de armazenamento.
 
-Volte à home do Portal Azure, busque e selecione "storage accounts"
+Volte à home do Portal Azure, busque e selecione **"storage accounts ou contas de armazenamento"** e clique em **"Criar"**
+
+![image](https://github.com/user-attachments/assets/8e6dc8d2-8704-482c-995f-adba3257ab7d)
+
 
 
 
