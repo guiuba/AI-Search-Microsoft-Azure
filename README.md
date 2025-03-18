@@ -50,6 +50,11 @@ Volte à home do Portal Azure, busque e selecione **"storage accounts ou contas 
 
 ![image](https://github.com/user-attachments/assets/8e6dc8d2-8704-482c-995f-adba3257ab7d)
 
+✅ Preencha os dados do formulário abaixo. 
+
+Em **"Redundância"** escolha **"LRS (armazenamento com redundância local)"**
+
+Após isso clique em **"Examinar + criar"**
 
 ![image](https://github.com/user-attachments/assets/89afe2b1-a157-4c3d-9347-10140ba90929)
 
