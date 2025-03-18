@@ -21,7 +21,6 @@ Documentação: https://aka.ms/ai900-ai-search
 ![image](https://github.com/user-attachments/assets/aaeb0d08-5965-4763-b2a3-a98207830ebf)
 
 
-
 ## Passo 3
 ✅ Precisamos criar agora um recurso de IA.
 
@@ -87,6 +86,10 @@ Clique então em upload, que abrirá uma aba lateral. Selecione então todos os 
 
 ![image](https://github.com/user-attachments/assets/a65dbab8-d6fa-44e0-8cb3-3f0b152b94c9)
 
+##Passo 9
+✅Agora voltamos ao AI Search, através do campo de busca.
+
+![image](https://github.com/user-attachments/assets/bc4b500f-604d-4f0d-b252-050926797800)
 
 
 
