@@ -130,6 +130,18 @@ A informações não presentes nos passos já vêm preenchidas, ou devem ser dei
 ![image](https://github.com/user-attachments/assets/b1132710-54f6-4c35-8ade-0af13093a4f6)
 
 
+## Passo 15
+Em **"Criar um indexador"**, preencha conforme imagem abaixo:
+
+![image](https://github.com/user-attachments/assets/2550405d-1e91-4d73-a96b-57875bbdea02)
+
+✅ Abra a aba **"Opções avançadas"**, marque a opção **"Chaves de Codificação de Base 64"**, e clique em **"Enviar"**
+
+![image](https://github.com/user-attachments/assets/b7dae113-072b-4c26-9081-68ccf13c58f0)
+
+Passo 16
+## Abrir o Azure AI Services| Ai Search, e clicar em Search Explorer
+
 
 
 
