@@ -139,8 +139,99 @@ Em **"Criar um indexador"**, preencha conforme imagem abaixo:
 
 ![image](https://github.com/user-attachments/assets/b7dae113-072b-4c26-9081-68ccf13c58f0)
 
-Passo 16
-## Abrir o Azure AI Services| Ai Search, e clicar em Search Explorer
+## Passo 16
+✅ Abrir o Azure AI Services| Ai Search, e clicar em **"Explorador de pesquisa"**
+
+![image](https://github.com/user-attachments/assets/7bb4de51-0588-4cb4-9354-ed19cb18b141)
+
+## Passo 17
+✅ Em **"Explorador de pesquisa"**, inclua a query fornecida pela documentação **"search=*&$count=true"**, e clique em **"pesquisar"**
+
+![image](https://github.com/user-attachments/assets/c9f9b722-7c65-40b0-93e6-688352d490b8)
+
+✅ Agora filtramos pela localização **"search=locations:'Chicago'"** e ele vai trazer as reviews com os sentimentos de cada.
+
+```json
+{
+  "@odata.context": "https://lab-ia-search-gui.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "@odata.count": 3,
+  "value": [
+    {
+      "@search.score": 3.5609007,
+      "content": "Review: I often make Fourth Coffee my meeting spot for my client meetings weekday mornings. I own a small business and the folks who work at Fourth Coffee are always very friendly. It leaves a good impression on my clients. There are also plenty of drink selections, good wi-fi, and seating. Some of my favorite coffees are the lavender honey latte and, in the winter, the apple-chai latte. There are delicious baked goods offered as well. \nDate: October 21, 2018\nLocation: Chicago, Illinois",
+      "metadata_storage_path": "aHR0cHM6Ly9zdG9yYWdlZ3VpdWJhLmJsb2IuY29yZS53aW5kb3dzLm5ldC9jb2ZmZWVyZXZpZXdzL3Jldmlldy01LmRvY3g1",
+      "locations": ["Fourth Coffee", "Chicago", "Illinois"],
+      "keyphrases": ["delicious baked goods", "lavender honey latte", "apple-chai latte", "Fourth Coffee"],
+      "sentiment": "[\"positive\"]",
+      "imageTags": ["clothing", "person", "furniture", "human face"],
+      "imageCaption": [{ "text": "a woman showing a woman something on a tablet", "confidence": 0.513512134552002 }]
+    },
+    {
+      "@search.score": 1.0562487,
+      "content": "Review: The coffee tastings every Wednesday afternoon are so fun. Each month there is a new drink theme. You do need to book a spot in advance to attend. It is very worth it! I also love their local music. Fourth Coffee brings in rising artists every weekend. I like to head over there mid-afternoon on weekdays when it’s not too busy and get a slice of pie or their seasonal baked goods. \nDate: August 13, 2018\nLocation: Chicago, Illinois",
+      "metadata_storage_path": "aHR0cHM6Ly9zdG9yYWdlZ3VpdWJhLmJsb2IuY29yZS53aW5kb3dzLm5ldC9jb2ZmZWVyZXZpZXdzL3Jldmlldy00LmRvY3g1",
+      "locations": ["Chicago", "Illinois"],
+      "keyphrases": ["new drink theme", "seasonal baked goods", "coffee tastings", "local music", "Fourth Coffee"],
+      "sentiment": "[\"positive\"]",
+      "imageTags": ["food", "chocolate", "table", "cup", "coffee"],
+      "imageCaption": [{ "text": "a group of small cups with brown liquid in them", "confidence": 0.39556050300598145 }]
+    },
+    {
+      "@search.score": 0.96866095,
+      "content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience! \nDate: October 23, 2018\nLocation: Chicago, Illinois",
+      "metadata_storage_path": "aHR0cHM6Ly9zdG9yYWdlZ3VpdWJhLmJsb2IuY29yZS53aW5kb3dzLm5ldC9jb2ZmZWVyZXZpZXdzL3Jldmlldy04LmRvY3g1",
+      "locations": ["Chicago", "Illinois"],
+      "keyphrases": ["Terrible experience", "Review", "pastries", "time", "box"],
+      "sentiment": "[\"negative\"]",
+      "imageTags": [],
+      "imageCaption": []
+    }
+  ]
+}
+
+
+
+✅ Agora filtramos pelo sentimento negativo **"search=sentiment:'negative'"**
+
+```json
+{
+  "@odata.context": "https://lab-ia-search-gui.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "@odata.count": 1,
+  "value": [
+    {
+      "@search.score": 0.2876821,
+      "content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
+      "metadata_storage_path": "aHR0cHM6Ly9zdG9yYWdlZ3VpdWJhLmJsb2IuY29yZS53aW5kb3dzLm5ldC9jb2ZmZWVyZXZpZXdzL3Jldmlldy04LmRvY3g1",
+      "locations": [
+        "Chicago",
+        "Illinois"
+      ],
+      "keyphrases": [
+        "Terrible experience",
+        "Review",
+        "pastries",
+        "time",
+        "box",
+        "Date",
+        "October",
+        "Location",
+        "Chicago",
+        "Illinois"
+      ],
+      "sentiment": "[\"negative\"]",
+      "merged_content": "Review: Today I was truly disappointed with how long I had to wait for the pastries I ordered ahead of time. When I got my box, some of the pastries seemed stale. Terrible experience!  \nDate: October 23, 2018\nLocation: Chicago, Illinois \n\n",
+      "text": [],
+      "layoutText": [],
+      "imageTags": [],
+      "imageCaption": []
+    }
+  ]
+}
+
+
+
+
+
 
 
 
