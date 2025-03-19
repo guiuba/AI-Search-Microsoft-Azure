@@ -86,7 +86,7 @@ Clique então em upload, que abrirá uma aba lateral. Selecione então todos os 
 
 ![image](https://github.com/user-attachments/assets/a65dbab8-d6fa-44e0-8cb3-3f0b152b94c9)
 
-##Passo 9
+## Passo 9
 ✅Agora voltamos ao AI Search, através do campo de busca.
 
 ![image](https://github.com/user-attachments/assets/bc4b500f-604d-4f0d-b252-050926797800)
@@ -123,15 +123,15 @@ A informações não presentes nos passos já vêm preenchidas, ou devem ser dei
 
 ✅ Clique em **"Próximo: Personalizar índice de destino"**
 
-## Passo 14
+## Passo 11
 
 ✅ Na aba **"Personalizar índice de destino"**, preencha conforme imagem abaixo, em seguida clique em **"Próximo criar um indexador"**:
 
 ![image](https://github.com/user-attachments/assets/b1132710-54f6-4c35-8ade-0af13093a4f6)
 
 
-## Passo 15
-Em **"Criar um indexador"**, preencha conforme imagem abaixo:
+## Passo 12
+✅ Em **"Criar um indexador"**, preencha conforme imagem abaixo:
 
 ![image](https://github.com/user-attachments/assets/2550405d-1e91-4d73-a96b-57875bbdea02)
 
@@ -139,12 +139,12 @@ Em **"Criar um indexador"**, preencha conforme imagem abaixo:
 
 ![image](https://github.com/user-attachments/assets/b7dae113-072b-4c26-9081-68ccf13c58f0)
 
-## Passo 16
+## Passo 13
 ✅ Abrir o Azure AI Services| Ai Search, e clicar em **"Explorador de pesquisa"**
 
 ![image](https://github.com/user-attachments/assets/7bb4de51-0588-4cb4-9354-ed19cb18b141)
 
-## Passo 17
+## Passo 14
 ✅ Em **"Explorador de pesquisa"**, inclua a query fornecida pela documentação **"search=*&$count=true"**, e clique em **"pesquisar"**
 
 ![image](https://github.com/user-attachments/assets/c9f9b722-7c65-40b0-93e6-688352d490b8)
@@ -188,10 +188,10 @@ Em **"Criar um indexador"**, preencha conforme imagem abaixo:
     }
   ]
 }
-
-
+```
 
 ✅ Agora filtramos pelo sentimento negativo **"search=sentiment:'negative'"**
+
 
 ```json
 {
@@ -227,8 +227,10 @@ Em **"Criar um indexador"**, preencha conforme imagem abaixo:
     }
   ]
 }
+```
+## Comentários
 
-
+✅ A ferramenta se mostra muito útil para negócios que oferecem serviços. Sua análise é bastante eficiente na identificação de frases-chave, sentimentos e localização, além de integrar essas informações de forma precisa na busca. Um exemplo prático é a possibilidade de entender melhor os motivos de avaliações negativas, já que as frases-chave destacam esses pontos. Isso facilita a identificação e solução de problemas que podem estar gerando insatisfação nos clientes.
 
 
 
